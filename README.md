@@ -4,4 +4,6 @@
            - 🕸️DevOps        
 - 🌱 I’m currently learning Full Stack Web development.
 - 💞️ I’m looking to collaborate for a mentor or a tech partner.
-- 📫 My Social Id: 'www.linkedin.com/in/rohit-more-b17a0129b'
+- 📫 My Social Id:
+- 🔗LinkedIn:  'www.linkedin.com/in/rohit-more-b17a0129b'
+- 🔗twitter:   'www.twitter.com/scar_S4'
