@@ -6,4 +6,4 @@
 - 💞️ I’m looking to collaborate for a mentor or a tech partner.
 - 📫 My Social Id:
 - 🔗LinkedIn:  'www.linkedin.com/in/rohit-more-b17a0129b'
-- 🔗twitter:   'www.twitter.com/scar_S4'
+- 🔗twitter:   'www.twitter.com/scarS_4'
