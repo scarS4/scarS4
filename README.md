@@ -15,6 +15,6 @@
 
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 300px, width: 300px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 300px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
